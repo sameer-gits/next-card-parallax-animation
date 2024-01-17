@@ -42,7 +42,7 @@ export default function Home() {
         </h4>
 
         <h4
-          className="transition-all top-6 left-4 peer-hover/left:top-4 peer-hover/left:left-6 absolute text-2xl font-bold p-4 px-12 rounded-full text-center w-fit peer-hover/right:top-4 peer-hover/right:left-3"
+          className="transition-all top-6 left-4 peer-hover/right:top-4 peer-hover/right:left-6 absolute text-2xl font-bold p-4 px-12 rounded-full text-center w-fit peer-hover/left:top-4 peer-hover/left:left-3"
           style={{
             backgroundImage:
               "url(https://sameer-gits.github.io/next-card-parallax-animation/gradient.gif)",
@@ -52,7 +52,7 @@ export default function Home() {
         </h4>
 
         <h4
-          className="transition-all top-6 left-4 peer-hover/left:top-3 peer-hover/left:left-7 absolute text-2xl font-bold p-4 px-12 rounded-full text-center w-fit peer-hover/right:top-3 peer-hover/right:left-2"
+          className="transition-all top-6 left-4 peer-hover/right:top-3 peer-hover/right:left-7 absolute text-2xl font-bold p-4 px-12 rounded-full text-center w-fit peer-hover/left:top-3 peer-hover/left:left-2"
           style={{
             backgroundImage:
               "url(https://sameer-gits.github.io/next-card-parallax-animation/gradient.gif)",
@@ -62,7 +62,7 @@ export default function Home() {
         </h4>
 
         <h4
-          className="transition-all top-6 left-4 peer-hover/left:top-2 peer-hover/left:left-8 absolute text-2xl font-bold p-4 px-12 rounded-full text-center w-fit peer-hover/right:top-2 peer-hover/right:left-1"
+          className="transition-all top-6 left-4 peer-hover/right:top-2 peer-hover/right:left-8 absolute text-2xl font-bold p-4 px-12 rounded-full text-center w-fit peer-hover/left:top-2 peer-hover/left:left-1"
           style={{
             backgroundImage:
               "url(https://sameer-gits.github.io/next-card-parallax-animation/gradient.gif)",
