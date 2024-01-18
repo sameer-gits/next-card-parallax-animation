@@ -9,9 +9,9 @@ export default function Home() {
   const [isRightChildHovered, setIsRightChildHovered] = useState(false);
 
   return (
-    <main className="flex min-h-screen p-12 align-center gap-2 justify-center items-center">
+    <main className="bg-black flex min-h-screen p-12 align-center gap-2 justify-center items-center">
       <div
-        className={`transition-transform grid border-2 border-slate-800 place-content-between py-6 p-4 rounded-3xl h-fit gap-7 w- max-w-96 bg-slate-900 relative ${
+        className={`transition-transform grid border-2 text-white border-slate-800 place-content-between py-6 p-4 rounded-3xl h-fit gap-7 w- max-w-96 bg-slate-900 relative ${
           isLeftChildHovered ? "hover:-skew-y-6 " : ""
         } ${isRightChildHovered ? "hover:skew-y-6 " : ""}`}
       >
